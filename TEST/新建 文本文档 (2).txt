@@ -1,0 +1,8 @@
+D:/DEV/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32/libwinmm.a"
+-"D:/DEV/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32/libgdi32.a"
+-"D:/DEV/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32/libkernel32.a"
+-"D:/DEV/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32/libmsimg32.a"
+-"D:/DEV/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32/libole32.a"
+-"D:/DEV/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32/liboleaut32.a"
+-"D:/DEV/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32/libuser32.a"
+-"D:/DEV/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32/libuuid.a"
