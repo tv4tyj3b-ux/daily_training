@@ -1,0 +1,1 @@
+void jishu (int ,int ,int ) ;
